@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Logo style={{ height: 400 }} />
-        <h1>Welcome to my first react app</h1>
+        <h1>Welcome to my first react app test</h1>
       </header>
     </div>
   );
